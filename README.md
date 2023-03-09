@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Allan Ventura
 
 - 🔭 Hoje trabanho com service desk
-- 🌱 Estudando tecnologias front end
+- 🌱 Estudando tecnologias front end / back end
 - 📧 Contate-me no e-mail: allan.ventura@una.br
 
 <div align="center">
