@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Allan Ventura
 
-- 🔭 Hoje trabanho com service desk
-- 🌱 Estudando tecnologias front end / back end
-- 📧 Contate-me no e-mail: allan.ventura@una.br
+- 🔭 Hoje trabanho com Gestão de Identidades e Acessos | IAM
+- 🌱 Estudando tecnologias back end [C#]
+- 📧 Contate-me no e-mail: allan7l2012@gmail.com
 
 <div align="center">
   <a href="https://github.com/allan-vent">
@@ -20,8 +20,7 @@
 ##
   
 <div>  
- 
-  <a href="https://www.instagram.com/allan.vent/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
  <a href="https://discord.com/channels/@me/835115487344066611" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/u/allan7l2012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/allan-ventura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
